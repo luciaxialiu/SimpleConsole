@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\xiali9\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\xiali9\\.nuget\\packages"
+    ]
+  }
+}
